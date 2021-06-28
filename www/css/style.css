@@ -1,0 +1,27 @@
+body{
+  overflow-x: hidden;
+}
+.topo{
+  padding: 5%;
+  background: rgb(161, 21, 228); 
+  color: white;
+}
+.botao{
+  background: rgb(161, 21, 228);
+  color: white;
+}
+.botao:hover{
+  background: white;
+  color: rgb(161, 21, 228);
+  border: 1px solid rgb(161, 21, 228);
+}
+.img{
+  height: 30vh;
+}
+.final{
+  color: rgb(161, 21, 228);
+}
+.espaco{
+  padding-top: 6%;
+  padding-bottom: 6%;
+}
